@@ -6,6 +6,7 @@
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
+
   "devDependencies": {
     "parcel": "^2.7.0"
   }
